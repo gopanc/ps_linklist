@@ -1,5 +1,5 @@
 # ps_linklist
-This module combines ps_linklist and ps_customeraccountlinks into one making it easy to configure and making the footer in one module only.
+This module combines ps_linklist and ps_customeraccountlinks into one making it easy to configure and making the footer in one module only. Only compatible with Prestashop 1.7
 
 # How to install
 1: Unnistall ps_linklist
